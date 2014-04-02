@@ -1,6 +1,8 @@
-###Bootboxjs - Meteor Smart Package
+###Bootboxjs - Meteor Smart Package (No Bootstrap)
 
 This is a the [bootboxjs bootstrap plugin](http://bootboxjs.com) as a meteor smart package.
+
+This fork of the original package does not ilclude the dependency on the `bootstrap-3` package for custom implementations.
 
 ###How to use?
 
